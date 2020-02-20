@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nv_iamge"
+        android:icon="@drawable/ic_image_black_24dp"
+        android:title="BackGround" />
+    <item android:id="@+id/nv_mine"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Mine"
+        />
+
+</menu>
